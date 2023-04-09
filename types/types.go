@@ -1,4 +1,4 @@
-package openai
+package types
 
 const (
 	MODEL_GPT_DAVINCI   string = "text-davinci-003"

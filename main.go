@@ -1,6 +1,6 @@
 package main
 
-import "github.com/nayonacademy/openai-go/openai"
+import "github.com/nayonacademy/openai-go"
 
 func main() {
 	chat := openai.NewGPT()
